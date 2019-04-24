@@ -12,11 +12,12 @@ namespace SoftifyOffice.API.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<IEnumerable<string>> ashraf()
         {
-            return new string[] { "value1", "value2dfdfgdf" };
+            return new string[] { "value1", "value2", "value3" };
         }
 
+    
         // GET api/values/5
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
@@ -26,8 +27,10 @@ namespace SoftifyOffice.API.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] string value)
+        public string Post([FromBody] string value,string value2)
         {
+            //var i = value.ToString()+"Anower";
+            return value+"_"+value2;
         }
 
         // PUT api/values/5

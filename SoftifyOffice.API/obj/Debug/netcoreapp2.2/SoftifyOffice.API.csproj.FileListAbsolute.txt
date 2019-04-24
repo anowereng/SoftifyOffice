@@ -12,3 +12,17 @@ D:\MVC-Core\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.Assembly
 D:\MVC-Core\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.RazorTargetAssemblyInfo.cache
 D:\MVC-Core\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.dll
 D:\MVC-Core\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.pdb
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\bin\Debug\netcoreapp2.2\SoftifyOffice.API.dll
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\bin\Debug\netcoreapp2.2\SoftifyOffice.API.deps.json
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\bin\Debug\netcoreapp2.2\SoftifyOffice.API.runtimeconfig.json
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\bin\Debug\netcoreapp2.2\SoftifyOffice.API.runtimeconfig.dev.json
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.csproj.CoreCompileInputs.cache
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.RazorAssemblyInfo.cache
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.RazorAssemblyInfo.cs
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.AssemblyInfoInputs.cache
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.AssemblyInfo.cs
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.RazorTargetAssemblyInfo.cache
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.dll
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.pdb
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\bin\Debug\netcoreapp2.2\SoftifyOffice.API.pdb
+E:\MVC CORE\SoftifyOffice\SoftifyOffice.API\obj\Debug\netcoreapp2.2\SoftifyOffice.API.csprojAssemblyReference.cache
