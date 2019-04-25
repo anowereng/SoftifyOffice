@@ -12074,11 +12074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MVC CORE\\SoftifyOffice\\SoftifyOffice.API\\SoftifyOffice.API.csproj",
+      "projectUniqueName": "F:\\MVC CORE\\SoftifyOffice\\SoftifyOffice.API\\SoftifyOffice.API.csproj",
       "projectName": "SoftifyOffice.API",
-      "projectPath": "E:\\MVC CORE\\SoftifyOffice\\SoftifyOffice.API\\SoftifyOffice.API.csproj",
+      "projectPath": "F:\\MVC CORE\\SoftifyOffice\\SoftifyOffice.API\\SoftifyOffice.API.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\MVC CORE\\SoftifyOffice\\SoftifyOffice.API\\obj\\",
+      "outputPath": "F:\\MVC CORE\\SoftifyOffice\\SoftifyOffice.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12133,5 +12133,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file F:\\MVC CORE\\SoftifyOffice\\SoftifyOffice.API\\obj\\SoftifyOffice.API.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
